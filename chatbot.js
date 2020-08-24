@@ -1,7 +1,7 @@
 const os = require('os');
 const request = require('request');
 
-const token = ''
+const token = 'AECBNHUIOS2R'
 
 const express = require('express');
 const bodyParser = require('body-parser');
