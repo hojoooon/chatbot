@@ -1,7 +1,7 @@
 const os = require('os');
 const request = require('request');
 
-const token = 'EAAGdBZAVHvAcBAA5'
+const token = 'EAAGdBZAVHvA----'
 
 const express = require('express');
 const app = express();
